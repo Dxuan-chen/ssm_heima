@@ -1,0 +1,6 @@
+# Project exclude paths
+/ssm_heima_dao/target/
+/ssm_heima_domain/target/
+/ssm_heima_service/target/
+/ssm_heima_utils/target/
+/ssm_heima_web/target/
